@@ -1,0 +1,121 @@
+{
+	"animaux": {
+		"theme": {
+			"fr": "Animaux",
+			"en": "Animals"
+		},
+		"produits": [
+			{
+				"id": "ts0001",
+				"nom": {
+					"fr": "Cute comme un poisson tropical",
+					"en": "Cute as a Tropical Fish"
+				},
+				"dac": "2020-04-25",
+				"ventes": 34,
+				"prix": 25.95
+			},
+			{
+				"id": "ts0004",
+				"nom": {
+					"fr": "Monstre douillet",
+					"en": "Fluffy Monster"
+				},
+				"dac": "2023-08-12",
+				"ventes": 123,
+				"prix": 25.95
+			},
+			{
+				"id": "ts0006",
+				"nom": {
+					"fr": "Camarade basque",
+					"en": "Basque Buddy"
+				},
+				"dac": "2023-02-27",
+				"ventes": 20,
+				"prix": 20.5
+			},
+			{
+				"id": "ts0007",
+				"nom": {
+					"fr": "Chaton moteur",
+					"en": "Engine Kitten"
+				},
+				"dac": "2024-10-01",
+				"ventes": 12,
+				"prix": 27.5
+			}
+		]
+	},
+	"inusite": {
+		"theme": {
+			"fr": "Inusité",
+			"en": "Unusual"
+		},
+		"produits": [
+			{
+				"id": "ts0002",
+				"nom": {
+					"fr": "Fauteuil illégal",
+					"en": "Armchair Avocado"
+				},
+				"dac": "2024-06-20",
+				"ventes": 6,
+				"prix": 20.5
+			}
+		]
+	},
+	"sport": {
+		"theme": {
+			"fr": "Sport",
+			"en": "Sport"
+		},
+		"produits": [
+			{
+				"id": "ts0003",
+				"nom": {
+					"fr": "Un dunk dans l'univers",
+					"en": "A Dunk in the Universe"
+				},
+				"dac": "2024-01-02",
+				"ventes": 21,
+				"prix": 22.75
+			}
+		]
+	},
+	"nature": {
+		"theme": {
+			"fr": "Nature",
+			"en": "Nature"
+		},
+		"produits": [
+			{
+				"id": "ts0005",
+				"nom": {
+					"fr": "Bleu comme une orange",
+					"en": "Blue as an Orange"
+				},
+				"dac": "2023-12-25",
+				"ventes": 325,
+				"prix": 25.95
+			},
+			{
+				"id": "ts0008",
+				"nom": {
+					"fr": "Et vogue le navire",
+					"en": "And the Ship Sails"
+				},
+				"dac": "2020-12-21",
+				"ventes": 293,
+				"prix": 15.5
+			}
+		]
+	},
+	"jv": {
+		"theme": {
+			"fr": "Jeux vidéo",
+			"en": "Video Games"
+		},
+		"produits": []
+	}
+}

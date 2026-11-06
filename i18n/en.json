@@ -1,0 +1,75 @@
+{
+    "entete": {
+        "logoAlt": "Home",
+        "recherchePlaceholder": "Search",
+        "menuTeeshirts": "T-shirts",
+        "menuCasquettes": "Caps",
+        "menuHoodies": "Hoodies",
+        "menuAide": "Help",
+        "menuNous": "About us"
+    },
+    "pied2page": {
+        "titreSectionAchats": "Your purchases",
+        "lienFaq": "Frequently Asked Questions",
+        "lienLivraison": "Your package delivery",
+        "lienConditions": "Terms of sale",
+        "lienConfid": "Privacy policy",
+        "titreSectionCompagnie": "About teeTIM",
+        "lienCompagnie": "The company",
+        "lienEquipe": "The team",
+        "lienEmplois": "Jobs",
+        "titreSectionContact": "Contact us",
+        "etiquetteTel": "Toll-free: ",
+        "etiquetteCourriel": "Email: ",
+        "droits": "All rights reserved, teeTIM"
+    },
+    "accueil": {
+        "metaTitre": "teeTIM // natural fibers... artificial design",
+        "metaDesc": "Homepage of the designer of 100% Quebec-made clothing, designed by TIM students using AI-generated designs, and made with 100% natural and organic fibers.",
+        "heroTitre": "T-shirts, hoodies, and caps made in Quebec 💯",
+        "heroSousTitre": "Designed at TIM with ❤️",
+        "heroSousTitre2": "/** with a little help from DALL-E 😉 **/",
+        "para1": "Today, the t-shirt is an essential item in everyone's wardrobe. And in an era where environmental concerns are more pressing than ever, we prefer t-shirts made in Quebec to reduce environmental impact and highlight local craftsmanship.",
+        "para2": "V-neck t-shirts, crew neck, loose or fitted, short-sleeved or long-sleeved for the chilly ones, plain or patterned to style an outfit… The t-shirt comes in a variety of colors, styles, and patterns."
+    },
+    "catalogue": {
+        "etiquetteTri": "Sort by: ",
+        "aleatoire": "Random",
+        "dacDesc": "New Arrivals",
+        "prixAsc": "Price / ascending",
+        "prixDesc": "Price / descending",
+        "nomAsc": "Alpha / ascending",
+        "nomDesc": "Alpha / descending",
+        "ventesDesc": "Best seller"
+    },
+    "teeshirts": {
+        "metaTitre": "TeeTIM - Our t-shirts",
+        "metaDesc": "",
+        "titrePage": "Our t-shirts",
+        "enConstruction": "Coming soon..."
+    },
+    "casquettes": {
+        "metaTitre": "TeeTIM - Our caps",
+        "metaDesc": "",
+        "titrePage": "Our caps",
+        "enConstruction": "Coming soon..."
+    },
+    "hoodies": {
+        "metaTitre": "TeeTIM - Our hoodies",
+        "metaDesc": "",
+        "titrePage": "Our hoodies",
+        "enConstruction": "Coming soon..."
+    },
+    "aide": {
+        "metaTitre": "TeeTIM - Help",
+        "metaDesc": "",
+        "titrePage": "Help",
+        "enConstruction": "Coming soon..."
+    },
+    "apropos": {
+        "metaTitre": "TeeTIM - About us",
+        "metaDesc": "",
+        "titrePage": "About us",
+        "enConstruction": "Coming soon..."
+    }
+}
